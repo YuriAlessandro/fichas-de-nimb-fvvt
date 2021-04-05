@@ -1,0 +1,9 @@
+{
+  "name": "fichas-de-nimb-fvvt",
+  "title": "Fichas de Nimb - Importador",
+  "description": "Um módulo para você importer no Foundry VTT qualquer ficha gerada no Fichas de Nimb - https://yurialessandro.github.io/gerador-ficha-tormenta20/",
+  "author": "Yuri Martins",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "scripts": ["scripts/importer.js"]
+}
